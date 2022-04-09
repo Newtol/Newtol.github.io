@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Newtol.github.io</id>
     <title>Newtol后端技术</title>
-    <updated>2022-04-09T05:56:56.056Z</updated>
+    <updated>2022-04-09T06:11:17.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Newtol.github.io"/>
     <link rel="self" href="https://Newtol.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://Newtol.github.io/images/avatar.png</logo>
     <icon>https://Newtol.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Newtol后端技术</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://Newtol.github.io/post/about/</id>
+        <link href="https://Newtol.github.io/post/about/">
+        </link>
+        <updated>2022-04-09T06:10:04.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<pre><code>Newtol为个人独立运营和维护的公众号、博客平台，
+主要用于发布一些关于后端技术、面试经验以及一些生活碎碎念！
+个人能力有限，文章深度或者准确性尚有局限，欢迎各位的批评指正
+</code></pre>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<pre><code>目前就职于某不知名小厂，从事后端Java的开发工作，专注于Serverless、k8s、Openfaas等技术
+</code></pre>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<pre><code>博客地址：http://blog.newtol.cn/
+个人邮箱：admin@newtol.cn(请直接表明来意)
+公众号：Newtol（后台直接回复即可，请直接表明来意）
+</code></pre>
+<h2 id="️-版权转载说明">©️ 版权&amp;转载说明</h2>
+<pre><code>公众号文章有原创、转载（会注明出处），其他素材等均来自于网络，如有版权问题，请直接联系，将以最快的速度处理，谢谢
+
+如需转载博客、公众号文章，请将转载的标题、文章链接发送于下方三种方式任意之一，并标注原作者、原文地址，否则保留追责权利。
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不是吧，工作导师比我先润？]]></title>
         <id>https://Newtol.github.io/post/bu-shi-ba-gong-zuo-dao-shi-bi-wo-xian-run/</id>
@@ -61,21 +90,6 @@
 <figure data-type="image" tabindex="6"><img src="https://pic2.zhimg.com/80/v2-71e5d57ce4abcee1227e376a9d491a43_720w.jpg?source=1940ef5c" alt="" loading="lazy"></figure>
 <p>同时也欢迎大家关注我的公众号：<br>
 <img src="https://Newtol.github.io/post-images/1649483365140.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://Newtol.github.io/post/about/</id>
-        <link href="https://Newtol.github.io/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
 ]]></content>
     </entry>
     <entry>

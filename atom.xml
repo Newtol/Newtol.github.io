@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Newtol.github.io</id>
     <title>Newtol后端技术</title>
-    <updated>2022-04-10T12:03:40.500Z</updated>
+    <updated>2022-06-04T15:08:14.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Newtol.github.io"/>
     <link rel="self" href="https://Newtol.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://Newtol.github.io/images/avatar.png</logo>
     <icon>https://Newtol.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Newtol后端技术</rights>
+    <entry>
+        <title type="html"><![CDATA[【奇淫技巧】IDEA自动删除无用的引用]]></title>
+        <id>https://Newtol.github.io/post/qi-yin-ji-qiao-idea-zi-dong-shan-chu-wu-yong-de-yin-yong/</id>
+        <link href="https://Newtol.github.io/post/qi-yin-ji-qiao-idea-zi-dong-shan-chu-wu-yong-de-yin-yong/">
+        </link>
+        <updated>2022-06-04T14:39:43.000Z</updated>
+        <content type="html"><![CDATA[<p>背景：有时候我们在开发的过程中不再引用一些类，但是class文件中import引用标识仍然存在，如果这样的情况多了就会导致我们的引用很长且及其不美观</p>
+<p>方法：快捷键【ctrl+alt+s】或者点击【File】-&gt;打开【Settings】，找到【Editor】-&gt;【General】-&gt;【Auto Import】-&gt;【Optimize imports on the fly】打上勾，如下图所示：</p>
+<figure data-type="image" tabindex="1"><img src="https://Newtol.github.io/post-images/1654354886514.png" alt="" loading="lazy"></figure>
+<p>就可以解决该问题了！</p>
+<p>欢迎大家关注我的公众号【Newtol】,不定期将有学习资源分享！！！<br>
+<img src="https://Newtol.github.io/post-images/1654355136681.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【面试系列】Java后台基础知识点总结]]></title>
         <id>https://Newtol.github.io/post/mian-shi-xi-lie-java-hou-tai-ji-chu-zhi-shi-dian-zong-jie/</id>
